@@ -410,3 +410,5 @@ This project demonstrates practical knowledge of:
 This project provides a simple and practical way to perform **sales data analysis and visualization using Python**.
 
 It combines **Pandas for data handling, NumPy for numerical operations, Matplotlib and Seaborn for visualization**, and Object-Oriented Programming for organizing the application.
+
+Video link: https://drive.google.com/file/d/19wHiwbZESkiXS58STN8ZFZNlOwIbNxj2/view?usp=sharing
